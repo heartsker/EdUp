@@ -6,10 +6,11 @@
 ## Here is test quiz
 
 `quiz`
-- first
-- second
-- third
-1
+Which is the second?
+first
+second
+third
+2
 `quiz`
 
 ## Creating objects
