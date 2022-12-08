@@ -3,6 +3,15 @@
 > As you already know, every **instance** in programming have its **data type**. That means you must provide a type for every object in your code, otherwise the code will not compile
 > 
 
+## Here is test quiz
+
+`quiz`
+- first
+- second
+- third
+1
+`quiz`
+
 ## Creating objects
 
 Let’s take a look on how to create instances
