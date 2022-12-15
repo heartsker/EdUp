@@ -12,6 +12,8 @@ Which is the **`second`**?
 - [x] **`second`**
 - [ ] **second**
 
+explanation: R u stupid or something? Isn't is obvious?
+
 `quiz`
 
 `quiz` complete
@@ -19,6 +21,8 @@ Which is the **`second`**?
 What is the meaning of life?
 
 - 42
+
+explanation: That is from book. Nevermind...
 
 `quiz`
 
