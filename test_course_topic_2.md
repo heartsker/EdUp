@@ -5,32 +5,11 @@
 
 ## Here is test quiz
 
-`quiz`
-Which is the second?
-first
-second
-third
-2
-`quiz`
-
-## Am I gonna collab with peppa pig?
-
-`quiz`
-Which is the second?
-Absolutely!
-Yeah
-Noah
-3
-`quiz`
-
-## Maccarony with a 
-
-`quiz`
-Which is the second?
-chicken shrimps, aaaah
-potato, like my dad loves
-italiano spagetty, bitch
-1
+`quiz` select
+Which is the **`second`**?
+[ ] _second_
+[x] **`second`**
+[ ] **second**
 `quiz`
 
 ## Creating objects
