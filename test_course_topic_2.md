@@ -14,6 +14,14 @@ Which is the **`second`**?
 
 `quiz`
 
+`quiz` complete
+
+What is the meaning of life?
+
+- 42
+
+`quiz`
+
 ## Creating objects
 
 Let’s take a look on how to create instances
