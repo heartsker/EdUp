@@ -7,9 +7,9 @@
 
 `quiz` select
 Which is the **`second`**?
-[ ] _second_
-[x] **`second`**
-[ ] **second**
+- [ ] _second_
+- [x] **`second`**
+- [ ] **second**
 `quiz`
 
 ## Creating objects
