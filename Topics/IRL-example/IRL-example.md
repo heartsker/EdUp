@@ -6,7 +6,7 @@
 
 Индекс NPS, Net Promoter Score — это "индекс приверженности потребителей" - метрика, специально разработанная для определения уровня лояльности покупателя к товару, бренду или компании, а также его готовности рекомендовать ваш товар или услугу своему окружению.	
 
-![NPS](https://raw.githubusercontent.com/heartsker/EdUp/dev/IRL_image1.png)
+![NPS](https://raw.githubusercontent.com/heartsker/EdUp/dev/Topics/IRL-example/IRL_image1.png)
 
 ## Типы клиентов
 
