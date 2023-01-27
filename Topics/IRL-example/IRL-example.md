@@ -4,9 +4,11 @@
 
 [![Индекс потребительской лояльности NPS . Основы маркетинга. Урок 10](https://i.ytimg.com/vi/kUGBPzZnMkM/maxresdefault.jpg)](https://www.youtube.com/watch?v=kUGBPzZnMkM&ab_channel=KosatkaMarketing "Индекс потребительской лояльности NPS . Основы маркетинга. Урок 10")
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kUGBPzZnMkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Индекс NPS, Net Promoter Score — это "индекс приверженности потребителей" - метрика, специально разработанная для определения уровня лояльности покупателя к товару, бренду или компании, а также его готовности рекомендовать ваш товар или услугу своему окружению.	
 
-![NPS](https://raw.githubusercontent.com/heartsker/EdUp/dev/Topics/IRL-example/IRL_image1.png)
+![NPS](https://raw.githubusercontent.com/heartsker/EdUp/dev/IRL_image1.png)
 
 ## Типы клиентов
 
